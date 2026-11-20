@@ -1,0 +1,14 @@
+# Local credentials and build output
+**/config.h
+.env
+.env.*
+!.env.example
+build/
+.pio/
+*.bin
+*.elf
+*.map
+__pycache__/
+.DS_Store
+Thumbs.db
+.vscode/
