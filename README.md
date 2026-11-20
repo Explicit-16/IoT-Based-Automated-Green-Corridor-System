@@ -6,7 +6,7 @@ I worked on this project to give emergency vehicles priority at traffic intersec
 
 This repository contains my traffic-signal controller firmware, its pin connections, and instructions for running it. It is part of our wider academic project, which used live smartphone GPS and a central server to track the emergency vehicle and decide which signal axis needed priority.
 
-**Technologies:** ESP32 · Arduino C/C++ · Wi-Fi · MQTT · PubSubClient · GPIO
+**Technologies:** ESP32 · Arduino C++ · Wi-Fi · MQTT · PubSubClient · GPIO
 
 ## My contribution
 
