@@ -1,0 +1,11 @@
+Host test run: 20 November 2026
+Scope: host logic tests using mocks; no ESP32 hardware or target toolchain.
+
+PASS startup all-red and broker configuration
+PASS MQTT client ID and subscription configuration
+PASS normal cycle and timing boundaries
+PASS NS and EW priority windows and normal return
+PASS prior normal phase retained after priority
+PASS characterized defect: invalid payload reuses previous direction
+PASS characterized behavior: repeated command restarts timer
+All host tests passed. Hardware, network transport and ESP32 build not tested.
