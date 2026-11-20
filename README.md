@@ -109,8 +109,7 @@ The current prototype uses blocking MQTT reconnection and simplified signal tran
 
 **Eshan Walsangikar**  
 B.Tech, Electronics & Telecommunication Engineering  
-Bharati Vidyapeeth College of Engineering, Pune  
-[LinkedIn](https://www.linkedin.com/in/eshan-walsangikar-4951a8257/)
+Bharati Vidyapeeth College of Engineering, Pune
 
 ## References
 
